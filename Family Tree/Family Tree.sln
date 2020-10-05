@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Family Tree", "Family Tree\Family Tree.vcxproj", "{3B4FB0E9-5397-4E1C-94C3-488362DEF2F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B4FB0E9-5397-4E1C-94C3-488362DEF2F5}.Debug|x64.ActiveCfg = Debug|x64
+		{3B4FB0E9-5397-4E1C-94C3-488362DEF2F5}.Debug|x64.Build.0 = Debug|x64
+		{3B4FB0E9-5397-4E1C-94C3-488362DEF2F5}.Debug|x86.ActiveCfg = Debug|Win32
+		{3B4FB0E9-5397-4E1C-94C3-488362DEF2F5}.Debug|x86.Build.0 = Debug|Win32
+		{3B4FB0E9-5397-4E1C-94C3-488362DEF2F5}.Release|x64.ActiveCfg = Release|x64
+		{3B4FB0E9-5397-4E1C-94C3-488362DEF2F5}.Release|x64.Build.0 = Release|x64
+		{3B4FB0E9-5397-4E1C-94C3-488362DEF2F5}.Release|x86.ActiveCfg = Release|Win32
+		{3B4FB0E9-5397-4E1C-94C3-488362DEF2F5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A07446C4-E6C0-4679-85B3-75F0B217C02E}
+	EndGlobalSection
+EndGlobal
